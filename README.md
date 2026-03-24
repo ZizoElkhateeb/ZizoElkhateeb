@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Ziad Elkhateeb  
 
-<!--
-**ZizoElkhateeb/ZizoElkhateeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 ML Engineer | Data Analyst  
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ZizoElkhateeb&label=Profile%20views&color=0e75b6&style=flat" alt="ZizoElkhateeb" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Data Science Student at Alexandria University  
+- 🤖 Passionate about Machine Learning & Data Analysis  
+- 📊 Experienced with real-world datasets and model deployment  
+- 🧠 Interested in AI, optimization, and problem solving  
+
+---
+
+### 📄 Resume
+- 📎 [View My CV](https://drive.google.com/file/d/1GHjk6g6lWwou0Z490-t-IFXAOOuZKviQ/view)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://github.com/ZizoElkhateeb" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://linkedin.com/in/ziadelkhateeb" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://kaggle.com/ziadelkhateeb" target="blank"><img src="https://cdn.simpleicons.org/kaggle" height="40"/></a>
+<a href="https://codeforces.com/profile/Ziad-ELKHAT_TEB" target="blank"><img src="https://cdn.simpleicons.org/codeforces" height="40"/></a>
+<a href="https://leetcode.com/ZiadElkhateeb" target="blank"><img src="https://cdn.simpleicons.org/leetcode" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+`Python` `SQL` `C++`
+
+#### 📊 Data Science & ML
+`Pandas` `NumPy` `Scikit-learn` `Keras` `Matplotlib` `Seaborn`
+
+#### ⚙️ Tools & Platforms
+`Docker` `MLflow` `Jupyter` `Postman` `Linux` `MongoDB` `MySQL`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,docker,linux,postman" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔍 **Healthcare Prediction System** – ML models for disease prediction  
+- 📊 **Google Forms Analysis Tool** – automated insights using Python  
+- 🌱 **Greenhouse IoT System** – smart agriculture using ESP32  
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ZizoElkhateeb&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZizoElkhateeb&layout=compact&theme=tokyonight" />
+</p>
