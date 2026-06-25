@@ -9,10 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Data Science Student at Alexandria University  
-- 🤖 Passionate about Machine Learning & Data Analysis  
-- 📊 Experienced with real-world datasets and model deployment  
-- 🧠 Interested in AI, optimization, and problem solving  
+-  Bachelor in Computer & Data Science (GPA:3.73/4.00) Alexandria University  
+-  Passionate about Machine Learning & Data Analysis  
+-  Experienced with real-world datasets and model deployment  
+-  Interested in AI, optimization, and problem solving  
 
 ---
 
@@ -35,13 +35,13 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-`Python` `SQL` `C++`
+`Python` `SQL` `C++` `Java`
 
 #### 📊 Data Science & ML
 `Pandas` `NumPy` `Scikit-learn` `Keras` `Matplotlib` `Seaborn`
 
 #### ⚙️ Tools & Platforms
-`Docker` `MLflow` `Jupyter` `Postman` `Linux` `MongoDB` `MySQL`
+`Docker` `MLflow` `Jupyter` `Postman` `Linux` `MongoDB` `MySQL` `Power BI`
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,docker,linux,postman" />
