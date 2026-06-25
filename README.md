@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-`Python` `SQL` `C++` `Java`
+`Python` `SQL` `C++` `Java` `Java Script`
 
 #### 📊 Data Science & ML
 `Pandas` `NumPy` `Scikit-learn` `Keras` `Matplotlib` `Seaborn`
@@ -44,7 +44,7 @@
 `Docker` `MLflow` `Jupyter` `Postman` `Linux` `MongoDB` `MySQL` `Power BI`
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb,docker,linux,postman,js" />
 </p>
 
 ---
