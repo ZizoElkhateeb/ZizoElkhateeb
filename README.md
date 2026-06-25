@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ziad Elkhateeb  
 
-### 💡 ML Engineer | Data Analyst  
+###  ML Engineer | Data Analyst  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZizoElkhateeb&label=Profile%20views&color=0e75b6&style=flat" alt="ZizoElkhateeb" />
@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 -  Bachelor in Computer & Data Science (GPA:3.73/4.00) Alexandria University  
 -  Passionate about Machine Learning & Data Analysis  
 -  Experienced with real-world datasets and model deployment  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="left">
 <a href="https://github.com/ZizoElkhateeb" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 <a href="https://linkedin.com/in/ziadelkhateeb" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
@@ -32,15 +32,15 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 💻 Languages
+####  Languages
 `Python` `SQL` `C++` `Java` `Java Script`
 
-#### 📊 Data Science & ML
+####  Data Science & ML
 `Pandas` `NumPy` `Scikit-learn` `Keras` `Matplotlib` `Seaborn`
 
-#### ⚙️ Tools & Platforms
+####  Tools & Platforms
 `Docker` `MLflow` `Jupyter` `Postman` `Linux` `MongoDB` `MySQL` `Power BI`
 
 <p align="left">
@@ -49,14 +49,14 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 - 🔍 **Healthcare Prediction System** – ML models for disease prediction  
 - 📊 **Google Forms Analysis Tool** – automated insights using Python  
 - 🌱 **Greenhouse IoT System** – smart agriculture using ESP32  
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ZizoElkhateeb&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZizoElkhateeb&layout=compact&theme=tokyonight" />
